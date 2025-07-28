@@ -4,7 +4,7 @@
 A human-friendly alternative to netstat for socket and port monitoring on  macOS.
 </p>
 
-## ⬇️ Installation:
+## ⬇️ build:
 
 ```bash
 $ pnpm tauri build 
